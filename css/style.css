@@ -1,0 +1,18 @@
+body {
+margin: 20px;
+text-align: center;
+}
+
+h1 {
+color: green;
+}
+
+img {
+margin: 5px;
+border: 2px;
+}
+
+p {
+text-align: justify;
+font-size: 25px;
+}
